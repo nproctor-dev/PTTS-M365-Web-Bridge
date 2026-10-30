@@ -1,0 +1,7 @@
+/dist/
+/build/
+*.token
+*.secret
+.env
+.env.*
+rclone.conf
